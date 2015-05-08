@@ -1,6 +1,6 @@
 # tuneup_check_bug_repro
 
-A repro case for [https://github.com/google/tuneup.dart/issues/32].
+A repro case for https://github.com/google/tuneup.dart/issues/32.
 
 To repro:
 
